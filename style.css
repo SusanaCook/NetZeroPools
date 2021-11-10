@@ -1,8 +1,20 @@
 html {
-    background-color:#e1f7f3;
+    background-color: transparent;
 }
 h1 {
-    background-color:#e1f7f3;
+    background-color: transparent;
     font-size: 48px;
 }
-
+.col-md-6 {
+    background-color: #e1f7f3;
+    border-radius: 50%;
+    border-style: outset;
+}
+.col-md-2 {
+    background-color: transparent;
+}
+h2 {
+    font-family: 'Gill Sans';
+    font-size: 60px;
+    font-weight: bolder;
+}
