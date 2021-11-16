@@ -13,13 +13,16 @@ h1 {
 .col-md-2 {
     background-color: transparent;
 }
+.side-piece {
+    background-color: #f6fdfc;
+}
 h2 {
     font-family: 'Gill Sans';
     font-size: 60px;
     font-weight: bolder;
 }
-.col-md-12 {
-    background-color: white;
+.col-md-8 {
+    background-color: #f6fdfc;
 }
 h3 {
     font-size: 36px;
