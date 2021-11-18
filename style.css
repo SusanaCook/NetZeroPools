@@ -31,3 +31,9 @@ h3 {
 p1 {
     font-family: Century Gothic, sans-serif;
 }
+#contact-desc {
+    font-size: 30px;
+}
+.main-background {
+    background-color: #e1f7f3;
+}
