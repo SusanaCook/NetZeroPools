@@ -1,42 +1,69 @@
 html {
     background-color: transparent;
 }
+
+
 h1 {
     background-color: transparent;
     font-size: 48px;
 }
+
+
 .col-md-6 {
     background-color: #e1f7f3;
     border-radius: 50%;
     border-style: outset;
 }
+
+
 .col-md-2 {
     background-color: transparent;
 }
+
+
 .side-piece {
     background-color: #f6fdfc;
 }
+
+
 h2 {
     font-family: 'Gill Sans';
     font-size: 52px;
     font-weight: bolder;
 }
+
+
 .col-md-8 {
     background-color: #f6fdfc;
 }
+
+
 h3 {
     font-size: 36px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
 p1 {
     font-family: Century Gothic, sans-serif;
 }
+
+
 #contact-desc {
     font-size: 30px;
 }
+
+
 .main-background {
     background-color: #e1f7f3;
 }
+
+
 .wave {
     background-color: #e1f7f3;
+}
+
+/*footer text*/
+p2 {
+    color: white;
 }
