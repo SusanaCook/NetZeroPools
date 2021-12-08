@@ -67,3 +67,24 @@ p1 {
 p2 {
     color: white;
 }
+
+/*background color for contact page*/
+#contact-background {
+    background-color:#f6fdfc
+}
+
+/*hyperlink color*/
+a {
+    color: black;
+}
+
+/*gradient*/
+.gradient {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(225,247,243,1) 100%);
+}
+
+/*header format*/
+.page-header {
+    margin-top: 4rem;
+}
