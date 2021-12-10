@@ -30,6 +30,7 @@ h2 {
     font-family: 'Gill Sans';
     font-size: 52px;
     font-weight: bolder;
+    background-color: transparent;
 }
 
 
@@ -59,9 +60,6 @@ p1 {
 }
 
 
-.wave {
-    background-color: #e1f7f3;
-}
 
 /*footer text*/
 p2 {
@@ -81,10 +79,15 @@ a {
 /*gradient for wave*/
 .gradient {
     background: rgb(34,193,195);
-    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(225,247,243,1) 100%);
+    background: linear-gradient(0deg, rgb(110, 134, 134) 0%, rgba(225,247,243,1) 100%);
 }
 
 /*header format*/
 .page-header {
     margin-top: 4rem;
+}
+
+/*about page styles*/
+.about {
+    background-color: rgb(225,247,243);
 }
