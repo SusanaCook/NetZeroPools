@@ -103,3 +103,8 @@ b {
     border-top: #1172aa;
     border-bottom: #1172aa;
 }
+
+/*articles page styles*/
+.articles-full {
+    background-color: #f6fdfc;
+}
