@@ -91,3 +91,15 @@ a {
 .about {
     background-color: rgb(225,247,243);
 }
+b {
+    font-size: 30px;
+}
+
+/*systems specific*/
+.systems-main {
+    background-color: #f6fdfc;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    border-top: #1172aa;
+    border-bottom: #1172aa;
+}
